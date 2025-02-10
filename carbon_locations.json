@@ -1,0 +1,290 @@
+{
+  "reconfigurations": [
+    {
+      "number": 1,
+      "name": "Gen 1 Prototype Beam Assembly and Load Test",
+      "date": "7/18/2022",
+      "location": {
+        "name": "Cambridge, MA",
+        "coordinates": {
+          "latitude": 42.3666,
+          "longitude": -71.1057
+        }
+      },
+      "pixel_weight": 6.04,
+      "coefficient": 0.38,
+      "a1_a3_emissions": 2.2952,
+      "transport": {
+        "distance": 0.0,
+        "type": "N/A",
+        "coefficient": null,
+        "emissions": 0.0
+      },
+      "total_emissions": 2.2952
+    },
+    {
+      "number": 2,
+      "name": "Gen 1 Prototype Column Assembly",
+      "date": "7/18/2022",
+      "location": {
+        "name": "Cambridge, MA",
+        "coordinates": {
+          "latitude": 42.3666,
+          "longitude": -71.1057
+        }
+      },
+      "pixel_weight": 6.04,
+      "coefficient": 0.38,
+      "a1_a3_emissions": 2.2952,
+      "transport": {
+        "distance": 0.0,
+        "type": "N/A",
+        "coefficient": null,
+        "emissions": 0.0
+      },
+      "total_emissions": 2.2952
+    },
+    {
+      "number": 3,
+      "name": "Gen 1 Prototype Shear Test",
+      "date": "4/15/2024",
+      "location": {
+        "name": "Cambridge, MA",
+        "coordinates": {
+          "latitude": 42.3666,
+          "longitude": -71.1057
+        }
+      },
+      "pixel_weight": 6.04,
+      "coefficient": 0.0,
+      "a1_a3_emissions": 0.0,
+      "transport": {
+        "distance": 0.0,
+        "type": "N/A",
+        "coefficient": null,
+        "emissions": 0.0
+      },
+      "total_emissions": 0.0
+    },
+    {
+      "number": 4,
+      "name": "Gen 2 Prototype Showcase Beam Assembly",
+      "date": "1/4/2023",
+      "location": {
+        "name": "Washington DC",
+        "coordinates": {
+          "latitude": 38.9072,
+          "longitude": -77.0369
+        }
+      },
+      "pixel_weight": 3.65,
+      "coefficient": 0.38,
+      "a1_a3_emissions": 1.387,
+      "transport": {
+        "distance": 700.0,
+        "type": "truck",
+        "coefficient": 0.032,
+        "emissions": 0.1168
+      },
+      "total_emissions": 1.5038
+    },
+    {
+      "number": 5,
+      "name": "Gen 2 Prototype Showcase Column Assembly",
+      "date": "1/4/2023",
+      "location": {
+        "name": "Washington DC",
+        "coordinates": {
+          "latitude": 38.9072,
+          "longitude": -77.0369
+        }
+      },
+      "pixel_weight": 3.65,
+      "coefficient": 0.38,
+      "a1_a3_emissions": 1.387,
+      "transport": {
+        "distance": 700.0,
+        "type": "truck",
+        "coefficient": 0.032,
+        "emissions": 0.1168
+      },
+      "total_emissions": 1.5038
+    },
+    {
+      "number": 6,
+      "name": "Gen 1 Prototype Showcase Column Assembly",
+      "date": "4/4/2023",
+      "location": {
+        "name": "Washington DC",
+        "coordinates": {
+          "latitude": 38.9072,
+          "longitude": -77.0369
+        }
+      },
+      "pixel_weight": 6.04,
+      "coefficient": 0.0,
+      "a1_a3_emissions": 0.0,
+      "transport": {
+        "distance": 700.0,
+        "type": "truck",
+        "coefficient": 0.032,
+        "emissions": 0.19328
+      },
+      "total_emissions": 0.19328
+    },
+    {
+      "number": 7,
+      "name": "Gen 2 Prototype Exhibition Beam Assembly ",
+      "date": "5/17/2024",
+      "location": {
+        "name": "Cambridge, MA",
+        "coordinates": {
+          "latitude": 42.3666,
+          "longitude": -71.1057
+        }
+      },
+      "pixel_weight": 3.65,
+      "coefficient": 0.0,
+      "a1_a3_emissions": 0.0,
+      "transport": {
+        "distance": 700.0,
+        "type": "truck",
+        "coefficient": 0.032,
+        "emissions": 0.1168
+      },
+      "total_emissions": 0.1168
+    },
+    {
+      "number": 8,
+      "name": "Gen 2 Prototype Exhibition Column Assembly",
+      "date": "5/17/2024",
+      "location": {
+        "name": "Cambridge, MA",
+        "coordinates": {
+          "latitude": 42.3666,
+          "longitude": -71.1057
+        }
+      },
+      "pixel_weight": 3.65,
+      "coefficient": 0.0,
+      "a1_a3_emissions": 0.0,
+      "transport": {
+        "distance": 700.0,
+        "type": "truck",
+        "coefficient": 0.032,
+        "emissions": 0.1168
+      },
+      "total_emissions": 0.1168
+    },
+    {
+      "number": 9,
+      "name": "Gen 2 Prototype Biennale Beam",
+      "date": "3/19/2025",
+      "location": {
+        "name": "Venice, IT",
+        "coordinates": {
+          "latitude": 45.4404,
+          "longitude": 12.316
+        }
+      },
+      "pixel_weight": 3.65,
+      "coefficient": 0.0,
+      "a1_a3_emissions": 0.0,
+      "transport": {
+        "distance": 6450.0,
+        "type": "air",
+        "coefficient": 0.5,
+        "emissions": 1.825
+      },
+      "total_emissions": 1.825
+    },
+    {
+      "number": 10,
+      "name": "Gen 1 Prototype Biennale Column",
+      "date": "3/19/2025",
+      "location": {
+        "name": "Venice, IT",
+        "coordinates": {
+          "latitude": 45.4404,
+          "longitude": 12.316
+        }
+      },
+      "pixel_weight": 6.04,
+      "coefficient": 0.0,
+      "a1_a3_emissions": 0.0,
+      "transport": {
+        "distance": 6450.0,
+        "type": "air",
+        "coefficient": 0.5,
+        "emissions": 3.02
+      },
+      "total_emissions": 3.02
+    },
+    {
+      "number": 11,
+      "name": "Speculative Reconfiguration - Warehouse",
+      "date": "12/4/2025",
+      "location": {
+        "name": "Edmonton, AB",
+        "coordinates": {
+          "latitude": 53.5461,
+          "longitude": -113.4937
+        }
+      },
+      "pixel_weight": 5.0,
+      "coefficient": 0.0,
+      "a1_a3_emissions": 0.0,
+      "transport": {
+        "distance": 7866.0,
+        "type": "air",
+        "coefficient": 0.5,
+        "emissions": 2.5
+      },
+      "total_emissions": 2.5
+    },
+    {
+      "number": 12,
+      "name": "Speculative Reconfiguration - Pavilion",
+      "date": "8/3/2034",
+      "location": {
+        "name": "Chicago, IL",
+        "coordinates": {
+          "latitude": 41.8781,
+          "longitude": -87.6298
+        }
+      },
+      "pixel_weight": 5.0,
+      "coefficient": 0.0,
+      "a1_a3_emissions": 0.0,
+      "transport": {
+        "distance": 2632.0,
+        "type": "truck",
+        "coefficient": 0.032,
+        "emissions": 0.16
+      },
+      "total_emissions": 0.16
+    },
+    {
+      "number": 13,
+      "name": "Speculative Reconfiguration - Tower",
+      "date": "4/1/2035",
+      "location": {
+        "name": "Vancouver, BC",
+        "coordinates": {
+          "latitude": 49.2827,
+          "longitude": -123.1207
+        }
+      },
+      "pixel_weight": 5.0,
+      "coefficient": 0.0,
+      "a1_a3_emissions": 0.0,
+      "transport": {
+        "distance": 2200.0,
+        "type": "truck",
+        "coefficient": 0.032,
+        "emissions": 0.16
+      },
+      "total_emissions": 0.16
+    }
+  ]
+}

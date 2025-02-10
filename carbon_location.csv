@@ -1,0 +1,14 @@
+Reconfiguration number,Reconfiguration name,Date (approx) ,Location name,Location coordinates,Pixel weight (kg),Coefficient,A1-A3 emissions (kgCO2e),Transport distance (km),Type of transport,Transport coefficient (kgCO2e/kg),Carbon emissions (A4) (kgCO2e/pixel),Total emissions per reconfiguration (kgCO2e/pixel)
+1,Gen 1 Prototype Beam Assembly and Load Test,7/18/2022,"Cambridge, MA","42.3666° N, 71.1057° W",6.04,0.38,2.2952,0,N/A,,0,2.2952
+2,Gen 1 Prototype Column Assembly,7/18/2022,"Cambridge, MA","42.3666° N, 71.1057° W",6.04,0.38,2.2952,0,N/A,,0,2.2952
+3,Gen 1 Prototype Shear Test,4/15/2024,"Cambridge, MA","42.3666° N, 71.1057° W",6.04,0,0,0,N/A,,0,0
+4,Gen 2 Prototype Showcase Beam Assembly,1/4/2023,Washington DC,"38.9072° N, 77.0369° W",3.65,0.38,1.387,700,truck,0.032,0.1168,1.5038
+5,Gen 2 Prototype Showcase Column Assembly,1/4/2023,Washington DC,"38.9072° N, 77.0369° W",3.65,0.38,1.387,700,truck,0.032,0.1168,1.5038
+6,Gen 1 Prototype Showcase Column Assembly,4/4/2023,Washington DC,"38.9072° N, 77.0369° W",6.04,0,0,700,truck,0.032,0.19328,0.19328
+7,Gen 2 Prototype Exhibition Beam Assembly ,5/17/2024,"Cambridge, MA","42.3666° N, 71.1057° W",3.65,0,0,700,truck,0.032,0.1168,0.1168
+8,Gen 2 Prototype Exhibition Column Assembly,5/17/2024,"Cambridge, MA","42.3666° N, 71.1057° W",3.65,0,0,700,truck,0.032,0.1168,0.1168
+9,Gen 2 Prototype Biennale Beam,3/19/2025,"Venice, IT","45.4404° N, 12.3160° E",3.65,0,0,6450,air,0.5,1.825,1.825
+10,Gen 1 Prototype Biennale Column,3/19/2025,"Venice, IT","45.4404° N, 12.3160° E",6.04,0,0,6450,air,0.5,3.02,3.02
+11,Speculative Reconfiguration - Warehouse,12/4/2025,"Edmonton, AB","53.5461° N, 113.4937° W",5,0,0,7866,air,0.5,2.5,2.5
+12,Speculative Reconfiguration - Pavilion,8/3/2034,"Chicago, IL","41.8781° N, 87.6298° W",5,0,0,2632,truck,0.032,0.16,0.16
+13,Speculative Reconfiguration - Tower,4/1/2035,"Vancouver, BC","49.2827° N, 123.1207° W",5,0,0,2200,truck,0.032,0.16,0.16
